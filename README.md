@@ -53,7 +53,7 @@ This project uses EmailJS to send emails directly without a backend.
 
 ### 📌 Example Code
 
-  ```js
+  ``js
   emailjs.send(
     "YOUR_SERVICE_ID",
     "YOUR_TEMPLATE_ID",
@@ -65,8 +65,23 @@ This project uses EmailJS to send emails directly without a backend.
     "YOUR_PUBLIC_KEY"
   );``
 
-### Author
- Snehal Dattatray Kumbhar
+
+  ### Screenshots
+
+  <img width="1861" height="892" alt="image" src="https://github.com/user-attachments/assets/0bc7b75e-f858-4232-9aaf-7eafb349d63b" />
+  <img width="1862" height="901" alt="image" src="https://github.com/user-attachments/assets/78925fd1-7735-4104-8488-1921f6da4df2" />
+  <img width="1862" height="907" alt="image" src="https://github.com/user-attachments/assets/bb208dae-904c-4d5f-8347-b627f2b9cec3" />
+  <img width="1866" height="897" alt="image" src="https://github.com/user-attachments/assets/092b0fd1-dcef-49d2-aa70-a9b74425b0d7" />
+
+
+
+
+
+  ### Author 
+  Snehal Dattatray Kumbhar
+
+
+
 
 
 
