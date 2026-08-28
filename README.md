@@ -19,7 +19,7 @@ A modern and responsive portfolio website showcasing mandala art, sketches, and 
 
 ## 🚀 Live Website
 
-👉 https://artPorfolio.vercel.app
+👉(https://spiffy-genie-9e9fb3.netlify.app)
 
 ---
 
